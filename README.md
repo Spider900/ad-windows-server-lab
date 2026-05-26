@@ -50,5 +50,15 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 3. Users OU with 1,000+ users
    
-# DNS:
+# Remote Access:
+
+<img width="1918" height="1022" alt="RA-1" src="https://github.com/user-attachments/assets/59d276f8-37dc-41c6-aa3b-7cb45e38eee1" />
+
+1. Configured Routing and Remote Access
+
+# DHCP:
+
+<img width="1918" height="1022" alt="DHCP-1" src="https://github.com/user-attachments/assets/50144b02-39b4-4d84-824f-80cff187098e" />
+
+1. DHCP Configuration and Scope
 
