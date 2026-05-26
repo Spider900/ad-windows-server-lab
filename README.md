@@ -1,6 +1,6 @@
 # 🖥️ Home Lab: Active Directory + Windows Server
 # Overview
-I designed a self-hosted home lab environment to simulate a corporate network using Active Directory Domain Services, DNS, DHCP, and Group Policy management on Windows Server.
+I designed a self-hosted home lab environment to simulate a corporate network using Active Directory Domain Services, DNS, DHCP, and Group Policy management on Windows Server. This document will showcase my deployment of these features.
 
 ![Badge](https://img.shields.io/badge/Windows_Server_2019-blue) ![Badge](https://img.shields.io/badge/Active_Directory-purple) ![Badge](https://img.shields.io/badge/DNS/DHCP-green) ![Badge](https://img.shields.io/badge/Group_Policy-brown) ![Badge](https://img.shields.io/badge/VirtualBox-grey)
 
@@ -34,4 +34,21 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 ✅ PowerShell automation for bulk user provisioning
 
+# Settings and Configuration
+
+# AD DS:
+
+<img width="1918" height="1023" alt="AD-DS-1 " src="https://github.com/user-attachments/assets/1982176b-4fe2-45eb-ac37-4a549ff041be" />
+
+1. root tree of my Active Directory
+
+<img width="1918" height="1022" alt="AD-DS-2" src="https://github.com/user-attachments/assets/cc65c96a-3cda-4b03-bb69-d246daf104cf" />
+
+2. Admin OU
+
+<img width="1918" height="1018" alt="AD-DS-3" src="https://github.com/user-attachments/assets/41e47fc8-618b-41d4-a9f8-569ca3b13aa6" />
+
+3. Users OU with 1,000+ users
+   
+# DNS:
 
