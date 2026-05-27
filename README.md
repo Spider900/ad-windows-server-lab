@@ -36,7 +36,7 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 # Settings and Configuration
 
-# AD DS:
+### AD DS:
 
 <img width="1918" height="1023" alt="AD-DS-1 " src="https://github.com/user-attachments/assets/1982176b-4fe2-45eb-ac37-4a549ff041be" />
 
@@ -54,25 +54,25 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 4. Users OU with 1,000+ users
    
-# Remote Access:
+### Remote Access:
 
 <img width="1918" height="1022" alt="RA-1" src="https://github.com/user-attachments/assets/59d276f8-37dc-41c6-aa3b-7cb45e38eee1" />
 
 1. Configured Routing and Remote Access
 
-# DHCP:
+### DHCP:
 
 <img width="1918" height="1022" alt="DHCP-1" src="https://github.com/user-attachments/assets/50144b02-39b4-4d84-824f-80cff187098e" />
 
 1. DHCP Configuration and Scope
 
-# Powershell:
+### Powershell:
 
 <img width="1918" height="1022" alt="Powershell-1" src="https://github.com/user-attachments/assets/e737ded5-cbce-4f09-a9f4-bc7abe7060a0" />
 
 1. I used [this](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) powershell script to automatically generate 1,000+ users for my AD environment
 
-# Client Machine:
+### Client Machine:
 
 <img width="1918" height="1016" alt="Client-1" src="https://github.com/user-attachments/assets/0c418df3-ca80-49e6-b5c1-d24cf667729b" />
 
