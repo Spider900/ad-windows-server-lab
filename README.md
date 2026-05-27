@@ -42,13 +42,17 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 1. root tree of my Active Directory
 
+<img width="1918" height="1015" alt="AD-DS-4" src="https://github.com/user-attachments/assets/e94bb89b-f08a-4a99-9fea-9daaf5401ce6" />
+
+2. Windows 11 Pro client machine connected to AD environment
+
 <img width="1918" height="1022" alt="AD-DS-2" src="https://github.com/user-attachments/assets/cc65c96a-3cda-4b03-bb69-d246daf104cf" />
 
-2. Admin OU
+3. Admin OU
 
 <img width="1918" height="1018" alt="AD-DS-3" src="https://github.com/user-attachments/assets/41e47fc8-618b-41d4-a9f8-569ca3b13aa6" />
 
-3. Users OU with 1,000+ users
+4. Users OU with 1,000+ users
    
 # Remote Access:
 
@@ -62,3 +66,30 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 1. DHCP Configuration and Scope
 
+# Powershell:
+
+<img width="1918" height="1022" alt="Powershell-1" src="https://github.com/user-attachments/assets/e737ded5-cbce-4f09-a9f4-bc7abe7060a0" />
+
+1. I used [this](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) powershell script to automatically generate 1,000+ users for my AD environment
+
+# Client Machine:
+
+<img width="1918" height="1016" alt="Client-1" src="https://github.com/user-attachments/assets/0c418df3-ca80-49e6-b5c1-d24cf667729b" />
+
+1. I will be using account "aabrev" to demonstrate how a user can log into the Windows 11 computer
+
+<img width="1918" height="1022" alt="Client-2" src="https://github.com/user-attachments/assets/37db751e-c909-48df-8acc-b9d1af2687c8" />
+
+2. Login credentials used for "aabrev"
+
+<img width="1918" height="1025" alt="Client-3" src="https://github.com/user-attachments/assets/ad84f13e-de4f-4744-8f79-80bc97939367" />
+
+3. Successful login
+
+# What I learned
+
+1. How Active Directory Domain Services integrates with DNS for domain resolution
+2. Kerberos authentication flow and how domain-joined clients authenticate
+3. GPO inheritance
+4. Diagnosing DNS misconfigurations that prevent domain join
+5. Automating repetitive AD tasks with PowerShell
