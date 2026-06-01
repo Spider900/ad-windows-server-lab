@@ -82,6 +82,16 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 1. Configured Routing and Remote Access
 
+### DNS:
+
+<img width="1918" height="1021" alt="DNS-1" src="https://github.com/user-attachments/assets/7a509413-6b15-4d05-a654-0c274fc61cd9" />
+
+1. DNS/IP Configuration for external network
+
+<img width="1918" height="1020" alt="DNS-2" src="https://github.com/user-attachments/assets/2a6b9255-1821-4159-8a26-417dca0f167a" />
+
+2. DNS/IP Configuration for internal network
+
 ### DHCP:
 
 <img width="1918" height="1022" alt="DHCP-1" src="https://github.com/user-attachments/assets/50144b02-39b4-4d84-824f-80cff187098e" />
