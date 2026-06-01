@@ -28,7 +28,7 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 
 ✅ User and security group creation
 
-✅ Group Policy Objects (GPOs) — password policy, desktop lockdown
+✅ Group Policy Objects (GPOs) 
 
 ✅ Domain-joined Windows 11 client
 
