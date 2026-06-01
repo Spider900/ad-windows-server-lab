@@ -53,7 +53,29 @@ I designed a self-hosted home lab environment to simulate a corporate network us
 <img width="1918" height="1018" alt="AD-DS-3" src="https://github.com/user-attachments/assets/41e47fc8-618b-41d4-a9f8-569ca3b13aa6" />
 
 4. Users OU with 1,000+ users
-   
+
+### GPO Settings
+
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/516473f9-f988-494e-aa0b-ad2039984644" />
+
+1. Configured GPO so only Administrator Accounts can Access DC Machine
+
+<img width="1918" height="1021" alt="GPO-2" src="https://github.com/user-attachments/assets/3f882ebf-2a0a-4e80-ac85-b96d6ae14cd2" />
+
+2. Login attempt with user account
+
+<img width="1918" height="1018" alt="GPO-3" src="https://github.com/user-attachments/assets/d7089b53-45c0-4282-812a-e7dfe38c8620" />
+
+3. Failed login due to proper GPO controls
+
+<img width="1918" height="1017" alt="GPO-4" src="https://github.com/user-attachments/assets/ebdb60c5-04d1-4b3a-9092-a457e9922da0" />
+
+4. Login attempt with admin account
+
+<img width="1918" height="1020" alt="GPO-5" src="https://github.com/user-attachments/assets/edfc69aa-6bdc-4427-9903-31e41f6975f8" />
+
+5. Successful login
+
 ### Remote Access:
 
 <img width="1918" height="1022" alt="RA-1" src="https://github.com/user-attachments/assets/59d276f8-37dc-41c6-aa3b-7cb45e38eee1" />
